@@ -6,11 +6,17 @@
 </p>
 
 <p align="center"> 
+  <div style="text-align: center;">
+    <img src="./res/google_d.gif" alt="google_d_gif" style="width: 100%; height: auto;" />
+  </div>
+</p>
+
+<p align="center"> 
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=400 align="center" src="https://github-readme-stats.vercel.app/api?username=Ayaa17&rank_icon=github&theme=dracula&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
+    <img height=280 align="center" src="https://github-readme-stats.vercel.app/api?username=Ayaa17&rank_icon=github&theme=dracula&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
   </a>
   <a href="https://github.com/anuraghazra/convoychat">
-    <img height=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ayaa17&theme=dracula&layout=donut-vertical&langs_count=8&card_width=320" />
+    <img height=280 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ayaa17&theme=dracula&layout=donut-vertical&langs_count=8&card_width=320" />
   </a>
 </p>
 
