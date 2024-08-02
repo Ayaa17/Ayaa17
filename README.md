@@ -6,7 +6,6 @@
 </p>
 
 <p align="center"> 
-  Visitor count<br>
   <img width=600 src="./res/google_d.gif" />
 </p>
 
