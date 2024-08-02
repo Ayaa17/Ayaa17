@@ -6,9 +6,8 @@
 </p>
 
 <p align="center"> 
-  <div style="text-align: center;">
-    <img src="./res/google_d.gif" alt="google_d_gif" style="width: 100%; height: auto;" />
-  </div>
+  Visitor count<br>
+  <img width=600 src="./res/google_d.gif" />
 </p>
 
 <p align="center"> 
